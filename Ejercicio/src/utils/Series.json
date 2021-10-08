@@ -1,0 +1,80 @@
+{
+    "Comedia":[
+        {
+            "nombre" : "Ryck y Morty",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Broklyn 99",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Friends",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "The big bang theory",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Two and a half men",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Family guy",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        }
+    ],
+    "Aventura":[
+        {
+            "nombre" : "One Piece",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Final Space",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Loki",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "The Mandolorian",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Invencible",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "The Magicians",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        }
+    ],
+    "Fantasia":[
+        {
+            "nombre" : "Game of thrones",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Castlevania",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Lucifer",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "WandaVision",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "Monster at Work",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        },
+        {
+            "nombre" : "The Witcher",
+            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+        }
+    ]
+}
