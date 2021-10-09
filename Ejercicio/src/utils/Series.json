@@ -2,79 +2,43 @@
     "Comedia":[
         {
             "nombre" : "Ryck y Morty",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "z8ZRJtXQ2Fk"
         },
         {
             "nombre" : "Broklyn 99",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "Z0ouTL5vwPs"
         },
         {
             "nombre" : "Friends",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
-        },
-        {
-            "nombre" : "The big bang theory",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
-        },
-        {
-            "nombre" : "Two and a half men",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
-        },
-        {
-            "nombre" : "Family guy",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "MfvvhM6IJS0"
         }
     ],
     "Aventura":[
         {
             "nombre" : "One Piece",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "H4b2YjVWgqo"
         },
         {
             "nombre" : "Final Space",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "4EHbt_kSkG8"
         },
         {
             "nombre" : "Loki",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
-        },
-        {
-            "nombre" : "The Mandolorian",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
-        },
-        {
-            "nombre" : "Invencible",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
-        },
-        {
-            "nombre" : "The Magicians",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "wcvbK_k_MgI"
         }
     ],
     "Fantasia":[
         {
             "nombre" : "Game of thrones",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "KPLWWIOCOOQ"
         },
         {
             "nombre" : "Castlevania",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "L7iWXfZzEMc"
         },
         {
             "nombre" : "Lucifer",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
-        },
-        {
-            "nombre" : "WandaVision",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
-        },
-        {
-            "nombre" : "Monster at Work",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
-        },
-        {
-            "nombre" : "The Witcher",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "DaxEHaUNLp8"
         }
     ]
 }

@@ -2,79 +2,79 @@
     "Comedia":[ 
         {
             "nombre" : "Son como niños",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "yMEDiKD7cyE"
         },
         {
             "nombre" : "¿... Y dónde estan las rubias?",
-            "portada": "'../img/comedia/peli2.jpg'"
+            "portada": "UxER50XHW-I"
         },
         {
             "nombre" : "Comando especial 2",
-            "portada": "../img/comedia/peli3.jpg"
+            "portada": "0qEJTFT3EWY"
         },
         {
             "nombre" : "Deadpool 2",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "B55kzR5Lb8E"
         },
         {
             "nombre" : "Quienes Son los Miller",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "Rlds0NL2ZXw"
         },
         {
             "nombre" : "¿Qué Paso ayer?",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "wnNgGp1KVWQ"
         }
     ],
     "Romance":[
         {
             "nombre" : "Como si fuera la primera vez",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "lKXgf7BUQnE"
         },
         {
             "nombre" : "Titanic",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "kVrqfYjkTdQ"
         },
         {
             "nombre" : "Historia de Amor",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "eprwTDVTEb8"
         },
         {
             "nombre" : "Dia de San Valentine",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "mz2Q-upe9qo"
         },
         {
             "nombre" : "10 Razones para Odiarte",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "2L2qi0KW0jM"
         },
         {
             "nombre" : "Pretty Woman",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "2EBAVoN8L_U"
         }
     ],
     "Accion":[
         {
             "nombre" : "Rapido y Furioso 9",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "t3DpuQrBivU"
         },
         {
             "nombre" : "Avengers Endgame",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "KdL8ucqi1F8"
         },
         {
             "nombre" : "Titanes del Pácifico",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "jpyPOlbsSwk"
         },
         {
             "nombre" : "Demon Slayer Mugen Train",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "jpyPOlbsSwk"
         },
         {
             "nombre" : "Spiderman Lejos de casa",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "-AwLMRgcEoA"
         },
         {
             "nombre" : "Batman El Caballero de la noche",
-            "portada": "'https://www.youtube.com/watch?v=yMEDiKD7cyE'"
+            "portada": "kj7urtvmwrY"
         }
     ]
 }
